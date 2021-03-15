@@ -1,1 +1,1 @@
-A list of my certifications. 
+### A collection of my programming and Data Science certifications. 
